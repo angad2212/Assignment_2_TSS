@@ -1,2 +1,2 @@
-# Challenge_Questions
-(Includes various types of challenging questions)
+# Assignment Question 2 of Thapar Summer Course
+(Includes a challenging problem)
